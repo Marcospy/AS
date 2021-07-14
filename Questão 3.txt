@@ -1,0 +1,8 @@
+ a) Qual a relação entre dados e software?
+O software é a parte lógica do computador, software é a manipulação, instrução de execução, redirecionamento
+e execução das atividades lógicas das máquinas.
+contém funções capazes de analisar, interpretar e transformar dados como forma de informações para os usuários.
+ 
+ b) Qual a relação entre dados e hardware?
+O Hardware é a parte física do computador e também é o conjunto de equipamentos acoplados em produtos que precisam de algum tipo de
+processamento computacional, para os dados serem exibidos para os usuários o Hardware é extremamente necessário.
